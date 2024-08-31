@@ -3,7 +3,7 @@
 ## 🎮 About Me
 - 게임 클라이언트 프로그래머
 - 웹 개발자 (프론트엔드)
-- ***Inha*** Technical College 소속
+- Inha Technical College 소속
 - HollyWood 소속
 
 ## 🎓 교육
@@ -12,7 +12,7 @@
 
 ## 🚀 프로젝트
 ### Game Clones
-1. **UltimateMonstersFight** (메타버스 아카데미 1기)
+1. UltimateMonstersFight (메타버스 아카데미 1기)
 2. 서든어택 (메타버스 아카데미 1기)
 3. 테일즈러너 (메타버스 아카데미 1기)
 
