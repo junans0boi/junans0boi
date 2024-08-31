@@ -13,7 +13,7 @@
 ## 🚀 프로젝트
 ### Game Clones
 1. UltimateMonstersFight (메타버스 아카데미 1기)
-2. 서든어택 (메타버스 아카데미 1기)
+2. [서든어택 (메타버스 아카데미 1기)](https://github.com/junans0boi/Clone_SuddenAttack_Unity)
 3. 테일즈러너 (메타버스 아카데미 1기)
 
 ## 💻 기술 스택
@@ -32,4 +32,4 @@
 - kakaotalk : junans0boi
 ---
 
-⭐️ From [junans0boi](https://github.com/[junans0boi])
+⭐️ From [junans0boi](https://github.com/junans0boi)
