@@ -2,7 +2,7 @@
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"> 안녕하세요! / Hello there!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A960EE&center=true&vCenter=true&width=500&lines=Game+%26+Web+Developer+%F0%9F%8E%AE;Flutter+%7C+Next.js+%7C+Unity;Building+Interactive+Experiences+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A960EE&center=true&vCenter=true&width=500&lines=Web+%26+App+Developer+%F0%9F%8C%90;Flutter+%7C+Next.js+%7C+Vue.js;Building+Real-world+Services+%E2%9C%A8)](https://git.io/typing-svg)
 
 <br/>
 
@@ -14,11 +14,11 @@
 
 ---
 
-게임과 웹, 두 세계를 오가는 개발자입니다.  
-Unity로 인터랙티브한 게임 경험을 만들고, Flutter와 Next.js로 사용자와 더 가까워지는 서비스를 만드는 것을 좋아합니다. 🎮✨
+Flutter와 Next.js로 사용자와 가까운 서비스를 만드는 웹 & 앱 개발자입니다.  
+Unity 게임 개발 경험을 바탕으로, 인터랙티브하고 완성도 높은 제품을 추구합니다. 🌐✨
 
-I'm a developer who bridges games and the web.  
-I craft interactive Unity experiences and ship real-world services with Flutter & Next.js. 🎮✨
+A web & app developer building close-to-user services with Flutter & Next.js.  
+Drawing on a background in Unity game development to craft polished, interactive products. 🌐✨
 
 ---
 
@@ -37,7 +37,8 @@ I craft interactive Unity experiences and ship real-world services with Flutter 
   | 🌐 [Omni Platform](https://github.com/junans0boi/omni-platform) | Discord/Slack 스타일 차세대 커뮤니케이션 플랫폼 — Next.js 15 · SSE 실시간 · LiveKit WebRTC · RBAC |
   | 🏫 [FourBlock](https://github.com/junans0boi/fourblock) | 인하공업전문대학 서버 구축·관리 웹 애플리케이션 |
   | 🎮 [서든어택 클론](https://github.com/junans0boi/Clone_SuddenAttack_Unity) | Unity로 구현한 FPS 게임 클론 — 메타버스 아카데미 1기 XR 과정 |
-  | 🎯 UltimateMonstersFight / 테일즈러너 | Unity 게임 클론 2종 — 메타버스 아카데미 1기 XR 과정 |
+  | 🏃 [테일즈러너 클론](https://github.com/junans0boi/Clone_Talesrunner_unity) | Unity로 구현한 러닝 액션 게임 클론 — 메타버스 아카데미 1기 XR 과정 |
+  | ⚔️ UltimateMonstersFight | Unity로 구현한 몬스터 배틀 게임 — 메타버스 아카데미 1기 XR 과정 |
 
   <br/>
 
@@ -45,7 +46,7 @@ I craft interactive Unity experiences and ship real-world services with Flutter 
 
   | Area | Skills |
   |------|--------|
-  | 🎮 Game | Unity, C# |
+  | 🎮 Game (prev) | Unity, C# |
   | 🌐 Web | Next.js, Vue.js, TypeScript, JavaScript |
   | 📱 Mobile / Cross-platform | Flutter, Dart |
   | ⚙️ Backend | Node.js, Express, Socket.IO, Redis, Prisma |
@@ -60,11 +61,13 @@ I craft interactive Unity experiences and ship real-world services with Flutter 
 
 <div align="center">
 
-**Game & Mobile**  
-![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+**Mobile / Cross-platform**  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+**Game (경력)**  
+![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 
 **Web & Full-stack**  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -91,8 +94,8 @@ I craft interactive Unity experiences and ship real-world services with Flutter 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=junans0boi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junans0boi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=junans0boi&theme=radical" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=junans0boi&theme=radical" height="160"/>
 </div>
 
 ---
