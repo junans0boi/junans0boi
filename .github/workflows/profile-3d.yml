@@ -9,10 +9,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
-        with:
-          persist-credentials: false
       - uses: yoshi389111/github-profile-3d-contrib@v0.9.3
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
@@ -21,7 +21,6 @@ jobs:
         run: |
           git config user.name junans0boi
           git config user.email junans0boi@gmail.com
-          git remote set-url origin https://x-access-token:${{ secrets.TOKEN }}@github.com/junans0boi/junans0boi.git
           git add -A .
           git commit -m "chore: update 3d contribution graph" || exit 0
           git push
