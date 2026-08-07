@@ -1,0 +1,29 @@
+name: GitHub-Profile-3D-Contrib
+
+on:
+  schedule:
+    - cron: "0 18 * * *"  # 매일 03:00 KST (18:00 UTC)
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v4
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: |
+            {
+              "githubUserName": "junans0boi",
+              "type": "season-animate"
+            }
+      - name: Commit & Push
+        run: |
+          git config user.name junans0boi
+          git config user.email junans0boi@gmail.com
+          git add -A .
+          git commit -m "chore: update 3d contribution graph" || exit 0
+          git push
