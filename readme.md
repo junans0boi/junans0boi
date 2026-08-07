@@ -38,7 +38,6 @@ Drawing on a background in Unity game development to craft polished, interactive
   | 🏫 [FourBlock](https://github.com/junans0boi/fourblock) | 인하공업전문대학 서버 구축·관리 웹 애플리케이션 |
   | 🎮 [서든어택 클론](https://github.com/junans0boi/Clone_SuddenAttack_Unity) | Unity로 구현한 FPS 게임 클론 — 메타버스 아카데미 1기 XR 과정 |
   | 🏃 [테일즈러너 클론](https://github.com/junans0boi/Clone_Talesrunner_unity) | Unity로 구현한 러닝 액션 게임 클론 — 메타버스 아카데미 1기 XR 과정 |
-  | ⚔️ UltimateMonstersFight | Unity로 구현한 몬스터 배틀 게임 — 메타버스 아카데미 1기 XR 과정 |
 
   <br/>
 
